@@ -1,0 +1,34 @@
+[
+    {
+        "name": "totentanz swarm piper",
+        "colors": ["RED", "BLACK"],
+        "colorIdentity": "RAKDOS",
+        "keywords": [
+            "SWARM",
+            "AGGRO",
+            "LEGENDARY",
+            "TRIBAL",
+            "RAT",
+            "RATS",
+            "TOKEN",
+            "TOKENS"
+        ]
+    },
+        {
+            "name": "hapatra vizier of poisons",
+            "colors": ["GREEN", "BLACK"],
+            "colorIdentity": "GOLGARI",
+            "keywords": [
+                "MIDRANGE",
+                "LEGENDARY",
+                "TRIBAL",
+                "-1-1",
+                "-1/-1",
+                "SNAKES",
+                "SNAKE",
+                "TOKEN",
+                "TOKENS"
+            ]
+        }   
+    
+]
